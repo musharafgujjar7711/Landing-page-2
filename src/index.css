@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    font-family: "Poppins", sans-serif;
+    
+}
+.bg-col{
+    background-color: rgba(16, 144, 203, 0.1);
+    ;
+}
+.btn{
+    @apply shadow-md rounded-md transition duration-300  py-3 px-6 text-white
+}
+.btn-1{
+    @apply bg-primary text-white
+}
+.btn-2{
+    @apply bg-white text-black
+}
+.btn-3{
+    @apply bg-black text-white
+}
