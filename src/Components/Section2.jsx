@@ -10,8 +10,8 @@ function Section2() {
         </div>
            
         <div className=' flex flex-col items-center lg:items-start flex-1 gap-12 w-3/4 h-3/4 sm:h/3/4 sm:w-3/4 md:w-full md:h-full'>
-        <div className=' flex items-center gap-6 '>
-                <img src="/emogi.svg" className='px-3 py-3 bg-primary rounded-full ' alt="" />
+        <div className=' flex flex-grow md:items-center lg:items-center xl:items-center gap-6 '>
+                <img src="/emogi.svg" className='px-3 py-3 flex  bg-primary rounded-full ' alt="" />
                 <div className=''>
                     <h1 className=' text-lg font-bold lg:text-xl text-four'>Lorem ipsum dolor sit text here</h1>
                     <p className=' text-lg text-third'>this is lorem of the day text here</p>

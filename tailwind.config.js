@@ -22,21 +22,21 @@ export default {
      sear: "#E8F4FA"
 
       },
-     container: {
+     container2: {
       center: true,
       padding:{
         DEFAULT:"1rem",
         sm:"3rem"
       },
       screens :{
-        lg:"1440px",
-        xl:"1440px",
-        "2xl":"1440"
+        lg:"1350px",
+        xl:"1350px",
+        "2xl":"1350px"
       }
      
 
       },
-     container2: {
+     container: {
       center: true,
       padding:{
         DEFAULT:"1rem",

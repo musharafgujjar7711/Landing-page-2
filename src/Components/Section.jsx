@@ -9,7 +9,7 @@ function Section() {
         <div className=' flex items-center gap-6 '>
                 <img src="/emogi.svg" className='px-3 py-3 bg-emogi rounded-full ' alt="" />
                 <div className=''>
-                    <h1 className=' text-lg font-bold lg:text-xl text-four'>Lorem ipsum dolor sit text here</h1>
+                    <h1 className=' text-xl font-bold lg:text-xl text-four'>Lorem ipsum dolor sit text here</h1>
                     <p className=' text-lg text-third'>this is lorem of the day text here</p>
                 </div>
             </div>
