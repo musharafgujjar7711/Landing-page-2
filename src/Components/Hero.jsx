@@ -2,7 +2,7 @@ import React from 'react';
 
 function Hero() {
   return (
-       <div className=' relative bg-col  '>
+       <div className=' relative bg-col h-[700px]  '>
         <div className=' container flex flex-col-reverse lg:flex-row  items-center gap-20 mt-11 lg:mt-16'>
         <div className=' flex flex-col items-center lg:items-start flex-1 gap-5 sm:gap-14 '>
       
