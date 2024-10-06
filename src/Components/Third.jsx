@@ -1,8 +1,5 @@
 import React from 'react'
-import { BsBadgeVr } from 'react-icons/bs'
-import { CgWebsite } from 'react-icons/cg'
-import { CiMobile3 } from 'react-icons/ci'
-import { TbSeo } from 'react-icons/tb'
+
 
 function Third() {
     return (
